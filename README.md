@@ -7,14 +7,19 @@ This system provides an approach to managing bus ticketing operations, catering 
 
 ## UI
 * Login page
+  
 ![LOGIN](https://github.com/kzsakib/recipe-recommender/assets/101088043/10348c00-de33-43ac-8c68-ebdb8b7bfe17)
 * User Menu
+  
 ![USER](https://github.com/kzsakib/recipe-recommender/assets/101088043/976debe9-1a47-40b3-a69b-3c626d184c79)
 * Buy Interface
+  
 ![BUY](https://github.com/kzsakib/recipe-recommender/assets/101088043/50fd8fa5-aa44-4e73-9612-8e23f77c898f)
 * Chat Interface
+  
 ![CHAT](https://github.com/kzsakib/recipe-recommender/assets/101088043/7f553eae-1d19-4819-80bf-27536651fe4b)
 * Ticket PDF
+  
 ![TICKET](https://github.com/kzsakib/recipe-recommender/assets/101088043/a77f960b-3112-424a-9bd9-d5f585d3dd42)
 
 
